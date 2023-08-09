@@ -1,6 +1,6 @@
 ## Overview
 
-This is a simple AI chat using: **OpenAI** + **Vercel SDK**
+This is a simple AI chat to experiment with **OpenAI** + **Vercel SDK**
 
 The rest of the stack consists of: **React**, **Tailwind**, **Next.js** and **Typescript**.
 
