@@ -12,6 +12,12 @@ yarn dev
 pnpm dev
 ```
 
+
+
+https://github.com/lpohren/chat-ai/assets/16123699/541f3d7b-ffcb-4a40-8a30-309cb0293e73
+
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
