@@ -26,7 +26,7 @@ export default function Chat() {
         <CardDescription>Using Versel SDK to create a chat bot</CardDescription>
       </CardHeader>
       <CardContent>
-        <ScrollArea className="h-[600px] w-full space-y-4 pr-4">
+        <ScrollArea className="h-[600px] w-full space-y-4 pr-4 pb-4">
           {messages.map((message) => {
             return (
               <div
